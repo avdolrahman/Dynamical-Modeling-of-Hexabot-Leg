@@ -6,3 +6,6 @@ This initiative concentrates on constructing dynamic models for a variety of rob
 
 Additionally, the project encompasses a thorough analysis and report on the dynamic behavior of a double pendulum system,  
 with Prof. Cédric Anthierens  and Prof. Vincent Hugel at the University of Toulon providing expert guidance.
+
+
+![Top View of Hexabot Leg](https://github.com/avdolrahman/Dynamical-Modeling-of-Hexabot-Leg/blob/main/Top_view.gif?raw=true)
